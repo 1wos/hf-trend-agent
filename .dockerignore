@@ -1,0 +1,12 @@
+.git
+.gitignore
+.env
+.adk
+.venv
+venv
+__pycache__
+*.py[cod]
+*.pptx
+*.excalidraw
+*.png
+README.md
